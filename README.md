@@ -1,2 +1,3 @@
 # learn-guessmynumber
-For Learning Purpose only.
+
+A simple game made using Javascript, CSS, HTML... :)
